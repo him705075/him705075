@@ -27,7 +27,6 @@ Here you can easily customize your Typing SVG with a live preview.
 </p>
 <!-- markdownlint-enable MD033 -->
 
-[☕ Buy me a coffee](https://ko-fi.com/jlawrence)
 
 ---
 
