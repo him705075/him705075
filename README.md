@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hy+i+am+himanshu+priyadarshi!;'m+studying+a+mechanical+engineering!;in+lakshmi+narain+college+of+technology!;i+am+a+Prgrammer!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hy+i+am+himanshu+priyadarshi!;'m+studying+a+mechanical+engineering!;in+lakshmi+narain+college+of+technology!;i+am+a+Prgrammer!>
 </p>
 
 <p align="center">
@@ -14,16 +14,6 @@
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 <!-- markdownlint-enable MD033 -->
-
-## ⚡ Quick setup
-
-1. Copy-paste the markdown below into your GitHub profile README
-2. Replace the value after `?lines=` with your text. Separate lines of text with semicolons and use `+` or `%20` for spaces.
-3. (Optional) Adjust the width parameter (see below) to fit the full width of your text.
-
-```md
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-```
 
 ## ⚙ Demo site
 
