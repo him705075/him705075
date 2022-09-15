@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hy+i+am+himanshu+priyadarshi!;And+i'm+studying+a+mechanical+engineering!;in+Lakshmi+Narain+college+of+technology!;Prgrammer!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hy+i+am+himanshu+priyadarshi!;And+i'm+studying+a+mechanical+engineering!;in+lakshmi+narain+college+of+technology!;Prgrammer!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 <p align="center">
