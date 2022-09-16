@@ -17,7 +17,7 @@
 <br></div>
 p align="center">
 
-p align="center">
+<p align="center">
 <img align="" height='120px' src="https://github.com/him705075/him705075/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/him705075/him705075/blob/main/assets/Geometric%20White.gif" />
 
 
