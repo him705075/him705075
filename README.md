@@ -6,6 +6,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hy+i+am+himanshu+priyadarshi!;i'm+studying+a+mechanical+engineering+in!;lakshmi+narain+college+of+technology!;i+am+a+programmer!&font=Fira%20Code&center=true&width=480&height=80&duration=6000&pause=2000">
 </p>
+## 🙋‍♂️
+- 💻 I’m currently working on something cool :wink: ;
+
+- <img src="https://github.com/him705075/him705075/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
+
+<br>
 
 ## Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
