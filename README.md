@@ -6,6 +6,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hy+i+am+himanshu+priyadarshi!;i'm+studying+a+mechanical+engineering+in!;lakshmi+narain+college+of+technology!;i+am+a+programmer!&font=Fira%20Code&center=true&width=480&height=80&duration=6000&pause=2000">
 </p>
+
+<img align="right" alt="Coding" width="400" src="https://github.com/him705075/him705075/blob/main/coding-freak%20(1).gif">
+
+
+
 ## 🙋‍♂️
 - 💻 I’m currently working on something cool :wink: ;
 
