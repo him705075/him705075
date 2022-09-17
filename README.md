@@ -1,11 +1,6 @@
-<!-- markdownlint-disable MD033 MD041-->
-<p align="center">
-  <h3 align="center">⌨️ Readme Typing SVG</h3>
-</p>
+<h1 align="center">Hey there, I'm Himanshu  Priyadarshi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hy+i+am+himanshu+priyadarshi!;i'm+studying+a+mechanical+engineering+in!;lakshmi+narain+college+of+technology!;i+am+a+programmer!&font=Fira%20Code&center=true&width=480&height=80&duration=6000&pause=2000">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Content+Writer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400" src="https://github.com/him705075/him705075/blob/main/coding-freak%20(1).gif">
 
