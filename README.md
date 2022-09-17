@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Himanshu  Priyadarshi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Aws+Rakuten;Shadowfax-Hackathon+Rakathon)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Passionate;Developer;Programmer;AWS;Rakuten;Shadowfax-Hackathon+Rakathon)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400" src="https://github.com/him705075/him705075/blob/main/coding-freak%20(1).gif">
 
