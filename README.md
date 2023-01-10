@@ -10,8 +10,7 @@
 - 💻 I’m currently working on something cool :wink: ;
 
 - <img src="https://github.com/him705075/him705075/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on 
-- 
-- 
+ 
 - **Open-Source Projects**
 
 <p align="center">
