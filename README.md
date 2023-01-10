@@ -9,9 +9,7 @@
 ## 🙋‍♂️
 - 💻 I’m currently working on something cool :wink: ;
 
-- <img src="https://github.com/him705075/him705075/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on 
- 
-- **Open-Source Projects**
+- <img src="https://github.com/him705075/him705075/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
 
 <p align="center">
 <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
@@ -38,6 +36,16 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :hammer_and_wrench: Languages and Tools :
 
+
+
+## Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<br><details><summary align="left"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
+</div>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{him705075}/count.svg" /></p> 
+<br></div>
 
 
 <p align="center">
