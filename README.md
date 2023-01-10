@@ -32,6 +32,16 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) 
 
+## 📊 My Github Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=him705075&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=him705075&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=him705075&theme=tokyonight" align="center" />
+</p>
+
+<details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
+
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
