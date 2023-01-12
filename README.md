@@ -88,7 +88,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-Made with ❤️ and PHP
+Made with ❤️ and PHp
 
 <!-- markdownlint-disable MD033 -->
 
